@@ -2,7 +2,7 @@
 
 Trash Data and Cache folders of uninstalled workflows
 
-[⤓ Install on the Alfred Gallery](https://alfred.app/workflows/alfredapp/clean-data-workflow)
+[⤓ Install on the Alfred Gallery](https://alfred.app/workflows/alfredapp/clean-workflow-data)
 
 ## Usage
 

@@ -263,7 +263,7 @@ Find data and cache folders from uninstalled workflows via the `delold` keyword.
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2024.1</string>
+	<string>2024.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/clean-workflow-data-workflow/</string>
 </dict>
