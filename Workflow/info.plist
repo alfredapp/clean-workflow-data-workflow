@@ -170,7 +170,7 @@ if (outdatedNumber === 0) {
 				<key>skipuniversalaction</key>
 				<true/>
 				<key>subtext</key>
-				<string></string>
+				<string>{const:alfred_workflow_description}</string>
 				<key>title</key>
 				<string>{const:alfred_workflow_name}</string>
 				<key>type</key>
