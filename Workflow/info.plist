@@ -213,7 +213,7 @@ const outdatedCacheBIDs = cacheBIDs.filter(bid =&gt; !installedBIDs.includes(bid
 const joinedBIDs = outdatedDataBIDs.concat(outdatedCacheBIDs)
 const outdatedNumber = Array.from(new Set(joinedBIDs)).length
 
-const outdatedDataDirs =   outdatedDataBIDs.map(p =&gt; `${dataDir}/${p}`)
+const outdatedDataDirs = outdatedDataBIDs.map(p =&gt; `${dataDir}/${p}`)
 const outdatedCacheDirs = outdatedCacheBIDs.map(p =&gt; `${cacheDir}/${p}`)
 const deletableDirs = outdatedDataDirs.concat(outdatedCacheDirs)
 
